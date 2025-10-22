@@ -7,11 +7,11 @@
   "frame": {
     "version": "1",
     "name": "TrendCaster",
-    "homeUrl": "https://trendcaster.app",
+    "homeUrl": "https://app-045f1ce5-etn6.vercel.app",
     "iconUrl": "https://trendcaster.app/icon.png",
     "splashImageUrl": "https://trendcaster.app/splash.png",
     "splashBackgroundColor": "#0a1929",
-    "webhookUrl": "https://api.trendcaster.app/webhook",
+    "webhookUrl": "https://app-045f1ce5-etn6.vercel.app/api/webhook",
     "subtitle": "Spot & Grow with Trends",
     "description": "Spot, create, and grow with trending crypto narratives on Base. Real-time trend spotting and curated content briefs for Farcaster creators.",
     "screenshotUrls": [
@@ -20,7 +20,13 @@
       "https://trendcaster.app/screenshot3.png"
     ],
     "primaryCategory": "social",
-    "tags": ["trends", "content", "farcaster", "base", "crypto"],
+    "tags": [
+      "trends",
+      "content",
+      "farcaster",
+      "base",
+      "crypto"
+    ],
     "heroImageUrl": "https://trendcaster.app/hero.png",
     "tagline": "Spot trends, create content, grow your audience",
     "ogTitle": "TrendCaster - Crypto Trend Spotting for Creators",
